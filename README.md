@@ -5,3 +5,5 @@
 g++ main.cpp -o main.exe
 main.exe
 ```
+
+Or use Visual Studio / Codeblocks.
